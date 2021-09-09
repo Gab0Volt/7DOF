@@ -1,5 +1,5 @@
 # 7DOF
-Diseño de Sistema de Clasificación usando Robot Redundante y Visión Artificial (Classification System Design using Redundant Robot and Artificial Vision) 
+Classification System Design using Redundant Robot and Artificial Vision (Diseño de Sistema de Clasificación usando Robot Redundante y Visión Artificial) 
 
 The following Project was presented as part of my university thesis to graduate as a Mechatronics Engineer from UNITEC-Tegucigalpa, Honduras (2021).
 
