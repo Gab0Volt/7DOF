@@ -14,5 +14,5 @@ To achieve the control and programming of the redundant robot, a robotics simula
 that allows creating, composing and simulating almost any type of robot with very precise physics engines.
 
 The same simulator provides the facility to program the robot with a programming language known as Python, Python is a very complete and flexible language that has allowed to 
-implement very useful functions for the control of the robotic system, and also the inclusion of libraries such as OpenCV that They facilitate the intervention to the 
+implement very useful functions for the control of the robotic system, and also the inclusion of libraries such as OpenCV that they facilitate the intervention to the 
 classification system by means of a vision sensor and artificial vision.
